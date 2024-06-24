@@ -1,0 +1,60 @@
+*{
+    padding: 2px;
+    
+}
+
+#logo{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow: 2px 1px 2px #eee;
+}
+#options{
+    display: flex;
+    cursor: pointer;
+    color: #666;
+}
+#landing-Image
+{
+    display: flex;
+    justify-content: center;
+}
+#Text1
+{
+    font-family: sans-serif;
+    font-size: medium;
+    color: #7b7878;
+    display: flex;
+    justify-content: center;
+}
+#Text2
+{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: small;
+    color: #B7A990;
+    margin-top: -30px;
+}
+#btn{  display: flex;
+    justify-content: center;
+    color: white;
+    
+   
+}
+#h1
+{
+    display: inline-block;
+    align-items: center;
+    background-color: rgb(69, 69, 179);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 20px;
+   
+}
